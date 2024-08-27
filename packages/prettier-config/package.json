@@ -1,0 +1,13 @@
+{
+  "name": "@splashing/prettier-config",
+  "version": "0.0.0",
+  "private": "true",
+  "type": "module",
+  "exports": {
+    ".": "./.prettierrc.js"
+  },
+  "dependencies": {
+    "prettier-plugin-organize-imports": "^4.0.0",
+    "prettier-plugin-tailwindcss": "^0.6.6"
+  }
+}
